@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+
+
+
+msgid "HPC_DIV_LEFTSIDE_NAV_HPC_MODULE01"
+msgstr "Module01"
+
+msgid "HPC_DIV_LEFTSIDE_NAV_HPC_MODULE02"
+msgstr "Module02"
+
+msgid "HPC_DIV_LEFTSIDE_NAV_HPC_MODULE03"
+msgstr "Module03"
