@@ -3,7 +3,7 @@ billiard==3.5.0.4
 celery==4.1.0
 Django==1.11.10
 django-celery-beat==1.0.1
-django-celery-results==1.0.1
+django-celery-results==2.4.0
 kombu==4.1.0
 ldap3==2.4.1
 passlib==1.7.1
